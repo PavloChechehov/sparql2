@@ -1,0 +1,14 @@
+@prefix : <http://stardog.com/tutorial/> .
+
+
+<http://stardog.com/tutorial/John_Lennon>
+    a <http://stardog.com/tutorial/BandMember> .
+
+<http://stardog.com/tutorial/Paul_McCartney>
+    a <http://stardog.com/tutorial/BandMember> .
+
+<http://stardog.com/tutorial/Ringo_Starr>
+    a <http://stardog.com/tutorial/BandMember> .
+
+<http://stardog.com/tutorial/George_Harrison>
+    a <http://stardog.com/tutorial/BandMember> .

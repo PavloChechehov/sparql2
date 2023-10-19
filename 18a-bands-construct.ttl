@@ -1,0 +1,334 @@
+<http://stardog.com/tutorial/Van_Halen>
+    a <http://stardog.com/tutorial/Band> ;
+    <http://stardog.com/tutorial/member>
+        <http://stardog.com/tutorial/Wolfgang_Van_Halen>,
+        <http://stardog.com/tutorial/Mark_Stone_(musician)>,
+        <http://stardog.com/tutorial/Gary_Cherone>,
+        <http://stardog.com/tutorial/Sammy_Hagar>,
+        <http://stardog.com/tutorial/Michael_Anthony_(musician)>,
+        <http://stardog.com/tutorial/Alex_Van_Halen>,
+        <http://stardog.com/tutorial/David_Lee_Roth>,
+        <http://stardog.com/tutorial/Eddie_Van_Halen> .
+
+<http://stardog.com/tutorial/The_Rolling_Stones>
+    a <http://stardog.com/tutorial/Band> ;
+    <http://stardog.com/tutorial/member>
+        <http://stardog.com/tutorial/Mick_Taylor>,
+        <http://stardog.com/tutorial/Charlie_Watts>,
+        <http://stardog.com/tutorial/Brian_Jones>,
+        <http://stardog.com/tutorial/Ian_Stewart_(musician)>,
+        <http://stardog.com/tutorial/Ronnie_Wood>,
+        <http://stardog.com/tutorial/Bill_Wyman>,
+        <http://stardog.com/tutorial/Mick_Jagger>,
+        <http://stardog.com/tutorial/Keith_Richards> .
+
+<http://stardog.com/tutorial/U2>
+    a <http://stardog.com/tutorial/Band> ;
+    <http://stardog.com/tutorial/member>
+        <http://stardog.com/tutorial/Adam_Clayton>,
+        <http://stardog.com/tutorial/Larry_Mullen_Jr.>,
+        <http://stardog.com/tutorial/The_Edge>,
+        <http://stardog.com/tutorial/Bono> .
+
+<http://stardog.com/tutorial/Aerosmith>
+    a <http://stardog.com/tutorial/Band> ;
+    <http://stardog.com/tutorial/member>
+        <http://stardog.com/tutorial/Jimmy_Crespo>,
+        <http://stardog.com/tutorial/Brad_Whitford>,
+        <http://stardog.com/tutorial/Ray_Tabano>,
+        <http://stardog.com/tutorial/Joe_Perry_(musician)>,
+        <http://stardog.com/tutorial/Joey_Kramer>,
+        <http://stardog.com/tutorial/Rick_Dufay>,
+        <http://stardog.com/tutorial/Tom_Hamilton_(musician)>,
+        <http://stardog.com/tutorial/Steven_Tyler> .
+
+<http://stardog.com/tutorial/Fleetwood_Mac>
+    a <http://stardog.com/tutorial/Band> ;
+    <http://stardog.com/tutorial/member>
+        <http://stardog.com/tutorial/Bob_Brunning>,
+        <http://stardog.com/tutorial/Rick_Vito>,
+        <http://stardog.com/tutorial/Danny_Kirwan>,
+        <http://stardog.com/tutorial/Lindsey_Buckingham>,
+        <http://stardog.com/tutorial/Billy_Burnette>,
+        <http://stardog.com/tutorial/Peter_Green_(musician)>,
+        <http://stardog.com/tutorial/John_McVie>,
+        <http://stardog.com/tutorial/Bekka_Bramlett>,
+        <http://stardog.com/tutorial/Stevie_Nicks>,
+        <http://stardog.com/tutorial/Bob_Weston_(guitarist)>,
+        <http://stardog.com/tutorial/Jeremy_Spencer>,
+        <http://stardog.com/tutorial/Bob_Welch_(musician)>,
+        <http://stardog.com/tutorial/Christine_McVie>,
+        <http://stardog.com/tutorial/Dave_Mason>,
+        <http://stardog.com/tutorial/Dave_Walker>,
+        <http://stardog.com/tutorial/Mick_Fleetwood> .
+
+<http://stardog.com/tutorial/The_Carpenters>
+    a <http://stardog.com/tutorial/Band> ;
+    <http://stardog.com/tutorial/member>
+        <http://stardog.com/tutorial/Richard_Carpenter_(musician)>, <http://stardog.com/tutorial/Karen_Carpenter> .
+
+<http://stardog.com/tutorial/Maroon_5>
+    a <http://stardog.com/tutorial/Band> ;
+    <http://stardog.com/tutorial/member>
+        <http://stardog.com/tutorial/Matt_Flynn_(musician)>,
+        <http://stardog.com/tutorial/Mickey_Madden>,
+        <http://stardog.com/tutorial/Ryan_Dusick>,
+        <http://stardog.com/tutorial/PJ_Morton>,
+        <http://stardog.com/tutorial/James_Valentine_(musician)>,
+        <http://stardog.com/tutorial/Jesse_Carmichael>,
+        <http://stardog.com/tutorial/Adam_Levine> .
+
+<http://stardog.com/tutorial/Def_Leppard>
+    a <http://stardog.com/tutorial/Band> ;
+    <http://stardog.com/tutorial/member>
+        <http://stardog.com/tutorial/Rick_Allen_(drummer)>,
+        <http://stardog.com/tutorial/Tony_Kenning>,
+        <http://stardog.com/tutorial/Vivian_Campbell>,
+        <http://stardog.com/tutorial/Pete_Willis>,
+        <http://stardog.com/tutorial/Steve_Clark>,
+        <http://stardog.com/tutorial/Phil_Collen>,
+        <http://stardog.com/tutorial/Rick_Savage>,
+        <http://stardog.com/tutorial/Joe_Elliott> .
+
+<http://stardog.com/tutorial/ABBA>
+    a <http://stardog.com/tutorial/Band> ;
+    <http://stardog.com/tutorial/member>
+        <http://stardog.com/tutorial/Benny_Andersson>,
+        <http://stardog.com/tutorial/Björn_Ulvaeus>,
+        <http://stardog.com/tutorial/Frida_Lyngstad>,
+        <http://stardog.com/tutorial/Agnetha_Fältskog> .
+
+<http://stardog.com/tutorial/The_Beach_Boys>
+    a <http://stardog.com/tutorial/Band> ;
+    <http://stardog.com/tutorial/member>
+        <http://stardog.com/tutorial/Bruce_Johnston>,
+        <http://stardog.com/tutorial/Brian_Wilson>,
+        <http://stardog.com/tutorial/Carl_Wilson>,
+        <http://stardog.com/tutorial/Al_Jardine>,
+        <http://stardog.com/tutorial/David_Marks>,
+        <http://stardog.com/tutorial/Dennis_Wilson>,
+        <http://stardog.com/tutorial/Ricky_Fataar>,
+        <http://stardog.com/tutorial/Mike_Love>,
+        <http://stardog.com/tutorial/Blondie_Chaplin> .
+
+<http://stardog.com/tutorial/Queen_(band)>
+    a <http://stardog.com/tutorial/Band> ;
+    <http://stardog.com/tutorial/member>
+        <http://stardog.com/tutorial/Freddie_Mercury>,
+        <http://stardog.com/tutorial/John_Deacon>,
+        <http://stardog.com/tutorial/Roger_Taylor_(Queen_drummer)>,
+        <http://stardog.com/tutorial/Brian_May> .
+
+<http://stardog.com/tutorial/Coldplay>
+    a <http://stardog.com/tutorial/Band> ;
+    <http://stardog.com/tutorial/member>
+        <http://stardog.com/tutorial/Phil_Harvey_(manager)>,
+        <http://stardog.com/tutorial/Chris_Martin>,
+        <http://stardog.com/tutorial/Will_Champion>,
+        <http://stardog.com/tutorial/Guy_Berryman>,
+        <http://stardog.com/tutorial/Jonny_Buckland> .
+
+<http://stardog.com/tutorial/Alabama_(band)>
+    a <http://stardog.com/tutorial/Band> ;
+    <http://stardog.com/tutorial/member>
+        <http://stardog.com/tutorial/Randy_Owen>,
+        <http://stardog.com/tutorial/Jeff_Cook>,
+        <http://stardog.com/tutorial/Mark_Herndon> .
+
+<http://stardog.com/tutorial/Genesis_(band)>
+    a <http://stardog.com/tutorial/Band> ;
+    <http://stardog.com/tutorial/member>
+        <http://stardog.com/tutorial/Steve_Hackett>,
+        <http://stardog.com/tutorial/Ray_Wilson_(musician)>,
+        <http://stardog.com/tutorial/Tony_Banks_(musician)>,
+        <http://stardog.com/tutorial/Anthony_Phillips>,
+        <http://stardog.com/tutorial/John_Silver_(musician)>,
+        <http://stardog.com/tutorial/Peter_Gabriel>,
+        <http://stardog.com/tutorial/Mike_Rutherford>,
+        <http://stardog.com/tutorial/Phil_Collins>,
+        <http://stardog.com/tutorial/Chris_Stewart_(author)>,
+        <http://stardog.com/tutorial/Mick_Barnard>,
+        <http://stardog.com/tutorial/John_Mayhew_(musician)> .
+
+<http://stardog.com/tutorial/The_Who>
+    a <http://stardog.com/tutorial/Band> ;
+    <http://stardog.com/tutorial/member>
+        <http://stardog.com/tutorial/Roger_Daltrey>,
+        <http://stardog.com/tutorial/Kenney_Jones>,
+        <http://stardog.com/tutorial/Keith_Moon>,
+        <http://stardog.com/tutorial/Doug_Sandom>,
+        <http://stardog.com/tutorial/John_Entwistle>,
+        <http://stardog.com/tutorial/Pete_Townshend> .
+
+<http://stardog.com/tutorial/Eagles_(band)>
+    a <http://stardog.com/tutorial/Band> ;
+    <http://stardog.com/tutorial/member>
+        <http://stardog.com/tutorial/Joe_Walsh>,
+        <http://stardog.com/tutorial/Timothy_B._Schmit>,
+        <http://stardog.com/tutorial/Randy_Meisner>,
+        <http://stardog.com/tutorial/Don_Felder>,
+        <http://stardog.com/tutorial/Don_Henley>,
+        <http://stardog.com/tutorial/Glenn_Frey>,
+        <http://stardog.com/tutorial/Bernie_Leadon> .
+
+<http://stardog.com/tutorial/The_Beatles>
+    a <http://stardog.com/tutorial/Band> ;
+    <http://stardog.com/tutorial/member>
+        <http://stardog.com/tutorial/Paul_McCartney>,
+        <http://stardog.com/tutorial/Ringo_Starr>,
+        <http://stardog.com/tutorial/George_Harrison>,
+        <http://stardog.com/tutorial/John_Lennon> .
+
+<http://stardog.com/tutorial/The_Doors>
+    a <http://stardog.com/tutorial/Band> ;
+    <http://stardog.com/tutorial/member>
+        <http://stardog.com/tutorial/John_Densmore>,
+        <http://stardog.com/tutorial/Robby_Krieger>,
+        <http://stardog.com/tutorial/Ray_Manzarek>,
+        <http://stardog.com/tutorial/Jim_Morrison> .
+
+<http://stardog.com/tutorial/Foreigner_(band)>
+    a <http://stardog.com/tutorial/Band> ;
+    <http://stardog.com/tutorial/member>
+        <http://stardog.com/tutorial/Jeff_Pilson>,
+        <http://stardog.com/tutorial/Kelly_Hansen>,
+        <http://stardog.com/tutorial/Thom_Gimbel>,
+        <http://stardog.com/tutorial/Michael_Bluestein>,
+        <http://stardog.com/tutorial/Chris_Frazier>,
+        <http://stardog.com/tutorial/Mick_Jones_(Foreigner_guitarist)> .
+
+<http://stardog.com/tutorial/Red_Hot_Chili_Peppers>
+    a <http://stardog.com/tutorial/Band> ;
+    <http://stardog.com/tutorial/member>
+        <http://stardog.com/tutorial/Josh_Klinghoffer>,
+        <http://stardog.com/tutorial/Chad_Smith>,
+        <http://stardog.com/tutorial/Anthony_Kiedis>,
+        <http://stardog.com/tutorial/Flea_(musician)> .
+
+<http://stardog.com/tutorial/The_Police>
+    a <http://stardog.com/tutorial/Band> ;
+    <http://stardog.com/tutorial/member>
+        <http://stardog.com/tutorial/Stewart_Copeland>,
+        <http://stardog.com/tutorial/Henry_Padovani>,
+        <http://stardog.com/tutorial/Sting_(musician)>,
+        <http://stardog.com/tutorial/Andy_Summers> .
+
+<http://stardog.com/tutorial/Metallica>
+    a <http://stardog.com/tutorial/Band> ;
+    <http://stardog.com/tutorial/member>
+        <http://stardog.com/tutorial/Ron_McGovney>,
+        <http://stardog.com/tutorial/Jason_Newsted>,
+        <http://stardog.com/tutorial/Dave_Mustaine>,
+        <http://stardog.com/tutorial/Cliff_Burton>,
+        <http://stardog.com/tutorial/Kirk_Hammett>,
+        <http://stardog.com/tutorial/Robert_Trujillo>,
+        <http://stardog.com/tutorial/Lars_Ulrich>,
+        <http://stardog.com/tutorial/James_Hetfield> .
+
+<http://stardog.com/tutorial/Kiss_(band)>
+    a <http://stardog.com/tutorial/Band> ;
+    <http://stardog.com/tutorial/member>
+        <http://stardog.com/tutorial/Bruce_Kulick>,
+        <http://stardog.com/tutorial/Eric_Carr>,
+        <http://stardog.com/tutorial/Mark_St._John>,
+        <http://stardog.com/tutorial/Gene_Simmons>,
+        <http://stardog.com/tutorial/Vinnie_Vincent>,
+        <http://stardog.com/tutorial/Peter_Criss>,
+        <http://stardog.com/tutorial/Ace_Frehley>,
+        <http://stardog.com/tutorial/Eric_Singer>,
+        <http://stardog.com/tutorial/Tommy_Thayer>,
+        <http://stardog.com/tutorial/Paul_Stanley> .
+
+<http://stardog.com/tutorial/Led_Zeppelin>
+    a <http://stardog.com/tutorial/Band> ;
+    <http://stardog.com/tutorial/member>
+        <http://stardog.com/tutorial/John_Bonham>,
+        <http://stardog.com/tutorial/John_Paul_Jones_(musician)>,
+        <http://stardog.com/tutorial/Robert_Plant>,
+        <http://stardog.com/tutorial/Jimmy_Page> .
+
+<http://stardog.com/tutorial/Backstreet_Boys>
+    a <http://stardog.com/tutorial/Band> ;
+    <http://stardog.com/tutorial/member>
+        <http://stardog.com/tutorial/Kevin_Richardson_(musician)>,
+        <http://stardog.com/tutorial/Nick_Carter_(musician)>,
+        <http://stardog.com/tutorial/Howie_D.>,
+        <http://stardog.com/tutorial/Brian_Littrell>,
+        <http://stardog.com/tutorial/A._J._McLean> .
+
+<http://stardog.com/tutorial/R.E.M.>
+    a <http://stardog.com/tutorial/Band> ;
+    <http://stardog.com/tutorial/member>
+        <http://stardog.com/tutorial/Peter_Buck>,
+        <http://stardog.com/tutorial/Michael_Stipe>,
+        <http://stardog.com/tutorial/Mike_Mills>,
+        <http://stardog.com/tutorial/Bill_Berry> .
+
+<http://stardog.com/tutorial/The_Black_Eyed_Peas>
+    a <http://stardog.com/tutorial/Band> ;
+    <http://stardog.com/tutorial/member>
+        <http://stardog.com/tutorial/Sierra_Swan>,
+        <http://stardog.com/tutorial/Kim_Hill_(soul_musician)>,
+        <http://stardog.com/tutorial/Fergie_(singer)>,
+        <http://stardog.com/tutorial/Taboo_(rapper)>,
+        <http://stardog.com/tutorial/Will.i.am>,
+        <http://stardog.com/tutorial/Apl.de.ap> .
+
+<http://stardog.com/tutorial/Bee_Gees>
+    a <http://stardog.com/tutorial/Band> ;
+    <http://stardog.com/tutorial/member>
+        <http://stardog.com/tutorial/Blue_Weaver>,
+        <http://stardog.com/tutorial/Vince_Melouney>,
+        <http://stardog.com/tutorial/Colin_Petersen>,
+        <http://stardog.com/tutorial/Dennis_Bryon>,
+        <http://stardog.com/tutorial/Robin_Gibb>,
+        <http://stardog.com/tutorial/Barry_Gibb>,
+        <http://stardog.com/tutorial/Maurice_Gibb>,
+        <http://stardog.com/tutorial/Alan_Kendall> .
+
+<http://stardog.com/tutorial/Pink_Floyd>
+    a <http://stardog.com/tutorial/Band> ;
+    <http://stardog.com/tutorial/member>
+        <http://stardog.com/tutorial/Syd_Barrett>,
+        <http://stardog.com/tutorial/Richard_Wright_(musician)>,
+        <http://stardog.com/tutorial/Nick_Mason>,
+        <http://stardog.com/tutorial/Roger_Waters>,
+        <http://stardog.com/tutorial/David_Gilmour> .
+
+<http://stardog.com/tutorial/Linkin_Park>
+    a <http://stardog.com/tutorial/Band> ;
+    <http://stardog.com/tutorial/member>
+        <http://stardog.com/tutorial/Joe_Hahn>,
+        <http://stardog.com/tutorial/Chester_Bennington>,
+        <http://stardog.com/tutorial/Brad_Delson>,
+        <http://stardog.com/tutorial/Mike_Shinoda> .
+
+<http://stardog.com/tutorial/Chicago_(band)>
+    a <http://stardog.com/tutorial/Band> ;
+    <http://stardog.com/tutorial/member>
+        <http://stardog.com/tutorial/Danny_Seraphine>,
+        <http://stardog.com/tutorial/Jason_Scheff>,
+        <http://stardog.com/tutorial/Robert_Lamm>,
+        <http://stardog.com/tutorial/Lou_Pardini>,
+        <http://stardog.com/tutorial/Chris_Pinnick>,
+        <http://stardog.com/tutorial/Tris_Imboden>,
+        <http://stardog.com/tutorial/Peter_Cetera>,
+        <http://stardog.com/tutorial/James_Pankow>,
+        <http://stardog.com/tutorial/Laudir_de_Oliveira>,
+        <http://stardog.com/tutorial/Bill_Champlin>,
+        <http://stardog.com/tutorial/Daniel_de_los_Reyes>,
+        <http://stardog.com/tutorial/Terry_Kath>,
+        <http://stardog.com/tutorial/Donnie_Dacus>,
+        <http://stardog.com/tutorial/Walter_Parazaider>,
+        <http://stardog.com/tutorial/Lee_Loughnane>,
+        <http://stardog.com/tutorial/Walfredo_Reyes,_Jr.>,
+        <http://stardog.com/tutorial/Keith_Howland>,
+        <http://stardog.com/tutorial/Dawayne_Bailey>,
+        <http://stardog.com/tutorial/Drew_Hester> .
+
+<http://stardog.com/tutorial/Nirvana_(band)>
+    a <http://stardog.com/tutorial/Band> ;
+    <http://stardog.com/tutorial/member>
+        <http://stardog.com/tutorial/Krist_Novoselic>,
+        <http://stardog.com/tutorial/Dave_Grohl>,
+        <http://stardog.com/tutorial/Kurt_Cobain> .

@@ -1,0 +1,17 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX : <http://stardog.com/tutorial/>
+
+
+SELECT ?track from <beatles.ttl>
+WHERE {
+        ?album rdf:type :Album .
+        ?album :artist ?artist .
+        ?album :track ?track .
+    #    ?artist a :SoloArtist
+
+#    ?band a :Band ;
+#        :member ?member .
+#    ?song a :Song ;
+#        :name ?nameSong.
+
+}
